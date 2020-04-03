@@ -1,0 +1,19 @@
+html{
+  margin: 2;
+  padding: 2;
+}
+
+body {
+  background-color: #949494;
+  margin: 20;
+  padding: 10;
+}
+canvas {
+  border: 5px solid white;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  right: 20px;
+  bottom: 20px;
+}
+
